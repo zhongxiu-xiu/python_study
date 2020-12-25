@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 
-def addGood():
+def ASD():
     print('hello')
-    
-    
+
+
+ASD()
+
+#def跟的是函数
+
